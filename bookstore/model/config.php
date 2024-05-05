@@ -1,5 +1,5 @@
 <?php
-$dsn = 'mysql:host=test;dbname=123104618;charset=utf8';
+$dsn = 'mysql:host=test;dbname=bookstore;charset=utf8';
 $dbusername = 'root';
 $dbpassword = '';
 
